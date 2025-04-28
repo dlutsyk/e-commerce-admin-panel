@@ -1,0 +1,29 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "root"
+    },
+    {
+      "path": "./app",
+      "name": "routes"
+    },
+    {
+      "path": "./src/pages"
+    },
+    {
+      "path": "./src/modules"
+    },
+    {
+      "path": "./src/components"
+    },
+    {
+      "path": "./src/ui"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true
+    }
+  }
+}
