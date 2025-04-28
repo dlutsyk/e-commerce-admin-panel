@@ -1,4 +1,4 @@
-import { borderVariants, tagVariants } from "./inline-tip";
+import { borderVariants, tagVariants } from "./InlineTip";
 import { type VariantProps } from "class-variance-authority";
 
 export interface InlineTipProps

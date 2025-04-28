@@ -1,4 +1,4 @@
-import { IconProps } from "@/types";
+import { IconProps } from "@ui/icons/types";
 
 export default function Buildings({
   color = "currentColor",

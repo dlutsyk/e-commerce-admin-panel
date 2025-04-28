@@ -1,7 +1,7 @@
 import { clx } from "@utils";
 import { cva } from "class-variance-authority";
 import { ButtonProps } from "./types";
-import { Spinner } from "@ui/icons";
+import { Spinner } from "@/src/ui/icons";
 
 const baseButtonStyles = clx(
   "transition-fg relative inline-flex w-fit items-center justify-center overflow-hidden rounded-md outline-none",

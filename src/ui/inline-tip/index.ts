@@ -1,1 +1,1 @@
-export * from "./inline-tip";
+export * from "./InlineTip";
