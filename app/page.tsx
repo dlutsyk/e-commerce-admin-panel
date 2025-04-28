@@ -1,4 +1,4 @@
-import { Button, Badge, Divider } from "@ui";
+import { Button, Badge, Divider, Text } from "@ui";
 
 export default function Home() {
   return (
@@ -8,6 +8,7 @@ export default function Home() {
       </Button>
       <Badge variant="new" label="New" />
       <Divider orientation="horizontal" />
+      <Text>Test Text</Text>
     </>
   );
 }
