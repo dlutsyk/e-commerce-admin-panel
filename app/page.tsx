@@ -1,10 +1,11 @@
-// import { Button, Badge, Divider, Text, InlineTip } from "@ui";
+"use client";
 import { MainSidebar } from "@modules";
+import { useState } from "react";
 
 export default function Home() {
   return (
-    <div className="flex h-screen">
+    <>
       <MainSidebar />
-    </div>
+    </>
   );
 }

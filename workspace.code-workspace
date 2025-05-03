@@ -24,6 +24,7 @@
   "settings": {
     "files.exclude": {
       "**/node_modules": true
-    }
+    },
+    "extension.prophet.sitecontext.selectedSiteID": ""
   }
 }

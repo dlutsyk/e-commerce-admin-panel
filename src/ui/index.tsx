@@ -3,3 +3,4 @@ export { Badge } from "./badge";
 export { Divider } from "./divider";
 export { Text } from "./text";
 export { InlineTip } from "./inline-tip";
+export { Avatar } from "./avatar";
